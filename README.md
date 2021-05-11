@@ -1,4 +1,4 @@
-# Number-endocder-and-decoder
+# Number-encoder-and-decoder
 This number encoder-decoder predicts the number the user writes on the provided box. A simple web application is created using tensorflow, keras, and flask. 
 
 This model was trained using MNIST dataset.
